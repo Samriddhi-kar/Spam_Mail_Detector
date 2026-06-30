@@ -61,6 +61,7 @@ Spam_Mail_Detector/
 │   ├── predict.py
 │   └── spam_detector.py
 │
+├── .gitignore
 ├── README.md
 └── requirements.txt
 ```
